@@ -1,0 +1,12 @@
+:root {
+  --qutiiz-font: "DM Sans", sans-serif;
+  --qutiiz-font-two: "DM Sans", sans-serif;
+  --qutiiz-gray: #959D9D;
+  --qutiiz-gray-rgb: 149, 157, 157;
+  --qutiiz-white: #ffffff;
+  --qutiiz-white-rgb: 255, 255, 255;
+  --qutiiz-black: #123043;
+  --qutiiz-black-rgb: 18, 48, 67;
+  --qutiiz-base: #12AD73;
+  --qutiiz-base-rgb: 18, 173, 115;
+}

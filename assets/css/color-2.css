@@ -1,0 +1,12 @@
+:root {
+    --qutiiz-font: "Manrope", sans-serif;
+    --qutiiz-font-two: "Space Grotesk", sans-serif;
+    --qutiiz-gray: #929191;
+    --qutiiz-gray-rgb: 146, 145, 145;
+    --qutiiz-white: #ffffff;
+    --qutiiz-white-rgb: 255, 255, 255;
+    --qutiiz-black: #242424;
+    --qutiiz-black-rgb: 36, 36, 36;
+    --qutiiz-base: #E5382A;
+    --qutiiz-base-rgb: 229, 56, 42;
+  }
