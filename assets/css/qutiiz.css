@@ -3183,7 +3183,7 @@ ul {
   width: 100%;
   border-top-left-radius: 8px;
   border-bottom-left-radius: 8px;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: luminosity; */
 }
 
 .why-choose-one__right {
@@ -4099,7 +4099,7 @@ ul {
 
 .tabs-content__experience-img img {
   width: auto;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: luminosity; */
   border-radius: var(--qutiiz-bdr-radius);
 }
 
@@ -7938,7 +7938,7 @@ ul {
 
 .about-page__img img {
   width: 100%;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: luminosity; */
   border-radius: var(--qutiiz-bdr-radius);
 }
 
